@@ -1,3 +1,3 @@
-# curso-rabbitmq con Java 11
-Curso RabbitMQ
+# rabbitmq con Java 11
+ RabbitMQ
 Cancel changes
